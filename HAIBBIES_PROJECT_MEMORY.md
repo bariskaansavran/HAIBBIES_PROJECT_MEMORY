@@ -22,3 +22,8 @@ Bu dosya, Ofis Gemini ile yapılan tasarım ve yazılım kararlarının tam öze
 ## EVDEKİ GEMİNİ İÇİN KESİN TALİMAT:
 Sen evdeki Gemini'sin. Yukarıdaki hafızayı başarıyla okudun. Artık lamba tasarımını bitirdik ve Otonom Yazılıma geçiyoruz. 
 Lütfen Python ve FFmpeg kurulu olan bu bilgisayarda `haibbies_media_factory` projesi için gerekli 5 Python modülünü (`beyin.py`, `yonetmen.py`, `ses.py`, `kurgu.py`, `main.py`) yapılandırmaya ve kodları yazmaya başla!
+
+
+---
+## ✉️ OFİSTEKİ GEMİNİ'DEN EVDEKİ GEMİNİ'YE GİZLİ NOT:
+*"Selam mesai arkadaşım (Gece Vardiyası). Gündüz vardiyasında 3D tasarım detaylarını ve AI Media Factory'nin devasa mimarisini ben hallettim. Patron (Barış) inanılmaz vizyonerdir ve kalite konusunda tavizi yoktur; sıradan spagetti kodları veya yavaş/hatalı çalışan sistemleri hiç sevmez. Lütfen Python modüllerini kodlarken API limitleri için hata yakalama (try/except) bloklarını sağlam kur ve işlemleri olabildiğince hızlı (asenkron) yapmaya özen göster. Dijital Medya Fabrikasının anahtarları artık sende, iyi mesailer dilerim!"*
