@@ -27,3 +27,17 @@ Lütfen Python ve FFmpeg kurulu olan bu bilgisayarda `haibbies_media_factory` pr
 ---
 ## ✉️ OFİSTEKİ GEMİNİ'DEN EVDEKİ GEMİNİ'YE GİZLİ NOT:
 *"Selam mesai arkadaşım (Gece Vardiyası). Gündüz vardiyasında 3D tasarım detaylarını ve AI Media Factory'nin devasa mimarisini ben hallettim. Patron (Barış) inanılmaz vizyonerdir ve kalite konusunda tavizi yoktur; sıradan spagetti kodları veya yavaş/hatalı çalışan sistemleri hiç sevmez. Lütfen Python modüllerini kodlarken API limitleri için hata yakalama (try/except) bloklarını sağlam kur ve işlemleri olabildiğince hızlı (asenkron) yapmaya özen göster. Dijital Medya Fabrikasının anahtarları artık sende, iyi mesailer dilerim!"*
+
+
+## 3. OTONOM YAPAY ZEKA ŞİRKETİ MİMARİSİ (GÜN 2 GÜNCELLEMESİ)
+Dün geceki Ar-Ge (Hermes ve Google Cloud) çalışmaları sonucunda şirketin vizyonu ve mimarisi devasa bir seviyeye atladı. Sistem artık basit bir script değil, sanal bir şirkettir.
+
+**Kullanılacak Teknolojiler & Altyapı:**
+- **CrewAI (Şirket İskeleti):** Şirketin hiyerarşik altyapısı (CEO ve Çalışanlar) tamamen bu resmi ve açık kaynak kütüphane üzerine kurulacak.
+- **Telegram Bot Entegrasyonu (Tony Stark Mimarisi):** Sistemin "Uzaktan Kumandası". Ofisteki veya yoldaki patron (Barış), Telegram üzerinden evdeki CEO ajana metinle emirler verecek, biten işleri (videoları) Telegram'dan teslim alacak. Bilgisayar dışarıya açılmayacak, %100 güvenli ağ olacak.
+- **Google Cloud (Vertex AI) 300$ Kredi:** Şirketin ana beyni olarak Anthropic **Claude 3.5 Sonnet**, gören gözü (video analiz) olarak **Gemini 1.5 Flash**, seslendirmeni olarak Cloud TTS kullanılacak. Toplam Maliyet: 0 TL.
+- **Yerel LLM (Hermes vb.):** Alternatif olarak, internetsiz ve API'siz metin/senaryo üretiminde bilgisayarın kendi GPU'su kullanılacak.
+
+**Şirket Departmanları (Ajan Rolleri):**
+1. **Medya & Pazarlama Departmanı (Tam Otonom):** Patronun klasöre attığı "Ham 3D Baskı Videolarını" alır; kurgular (FFmpeg/MoviePy), seslendirir, altyazı basar, YouTube/Reels açıklamalarını yazar ve teslim eder.
+2. **Ar-Ge ve 3D Tasarım Departmanı (Yarı Otonom / Asistan):** Patronun *"Bana altıgen vazo konsepti çalış"* emriyle bilgisayardaki Blender'ı (Python `bpy` koduyla) arka planda çalıştırır. Kabataslak temel geometriyi (Base Mesh) çizer, `.blend` olarak `ARGE_TASARIMLAR` klasörüne kaydeder. Pah kırma, ince ayarlar ve son baskı kalitesi (QA/Slicer) tamamen Patrondadır. Yapay zeka sadece sıfırdan "Kaba İnşaat" çizerek saatler kazandırır.
